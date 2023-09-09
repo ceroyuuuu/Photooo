@@ -7,4 +7,6 @@
 家里10几年的照片都使用Mac来管理，备份出来的图片都是按照日期来组织的文件夹，找一张图片要进入很多目录，所以我用AI写了这个代码。可以把目录下以及所有子文件夹的图片移动到一个文件夹里，方便观看。
 虽然用看图软件也能实现，但是20000多张图片导入导出非常缓慢。我目前还没有找到让人满意的图片管理软件。
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ceroyuuuu/Photooo/main/photooo.png">
+</p>
